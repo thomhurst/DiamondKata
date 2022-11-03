@@ -1,3 +1,8 @@
+# Diamond Kata
+
+## Execution
+Run by either passing in a character as a program argument, or entering a character during the program's execution.
+
 ### Origin
 
 This kata is based on a post by Seb Rose here: http://claysnow.co.uk/recycling-tests-in-tdd/
